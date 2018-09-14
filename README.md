@@ -1,4 +1,4 @@
-# fblib
+# libfb
 Requires GLIB, GLIB-JSON and LIBSOUP to be installed
 
 build with `meson`
